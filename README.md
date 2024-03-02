@@ -53,4 +53,4 @@ Si deseas contribuir a este repositorio enviar mensaje
 
 ## Licencia
 
-Este proyecto está licenciado bajo la Licencia MIT. Consulta el archivo [LICENSE](LICENSE) para más detalles.
+Este proyecto está licenciado bajo la Licencia GNU GENERAL PUBLIC LICENSE. Consulta el archivo [LICENSE](LICENSE) para más detalles.
