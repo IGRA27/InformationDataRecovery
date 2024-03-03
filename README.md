@@ -1,6 +1,6 @@
 # Recuperación de la Información (Data Recovery)
 
-Bienvenido al repositorio de la materia de Recuperación de la Información, parte del programa de Ciencias de la Computación. Este repositorio contiene materiales, ejemplos y recursos relacionados con la recuperación de texto, imágenes y otros aspectos esenciales de esta área de estudio.
+Bienvenido al repositorio de la materia de Recuperación de la Información, materia de la ingenieria de Ciencias de la Computación. Este repositorio contiene materiales, ejemplos y recursos relacionados con la recuperación de texto, imágenes y otros aspectos esenciales de esta área de estudio.
 
 ## Contenido
 
